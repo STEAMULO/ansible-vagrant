@@ -56,4 +56,6 @@ GPL
 Author Information
 ------------------
 
-Pierre Mavro / deimosfr
+Steamulo - www.steamulo.com
+
+Forked from Pierre Mavro / deimosfr
